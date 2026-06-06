@@ -116,8 +116,7 @@ After running the scripts, your dataset directory should be structured properly 
 ---
 ## 🎯 Performance
 
-Our CLNS method achieves state-of-the-art performance on three popular cross-modal Re-ID benchmarks. **(R)** indicates results with re-ranking.
-
+Our CLNS method achieves state-of-the-art performance on three popular cross-modal Re-ID benchmarks.
 ### Results on RegDB
 
 | Mode      | Rank-1 |  mAP   |  mINP  | 
